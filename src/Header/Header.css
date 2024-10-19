@@ -1,0 +1,11 @@
+.head{
+    display: flex;
+    justify-content:space-between;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+    height: 30px;
+}
